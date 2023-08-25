@@ -1,5 +1,4 @@
 export const formats = [
-    // 'background',
     "bold",
     "color",
     "font",
@@ -18,6 +17,4 @@ export const formats = [
     "direction",
     "code-block",
     "formula",
-    // 'image' // disallowed
-    // 'video' // disallowed
   ];
